@@ -1,0 +1,163 @@
+-------------------------------------------------------------------------------
+CORE TESTS
+Value: 40
+-------------------------------------------------------------------------------
+--> test01
+Test with a small text file containing no repeated sequences.
+
+valgrind
+-------------------------------------------------------------------------------
+--> test02
+Test with a small text file containing repeated sequences.
+
+valgrind
+-------------------------------------------------------------------------------
+--> test03
+Test with a small binary file containing 255 of the 256 possible byte
+values and with no repeated sequences. This results in a file with only
+9-bit codes (including the EOD).
+
+valgrind
+-------------------------------------------------------------------------------
+--> test04
+Test with a small binary file containing all 256 possible byte values
+(0 to 255) and with no repeated sequences. This results in a file with
+all 9-bit codes except for the EOD which is a 10-bit code.
+
+valgrind
+-------------------------------------------------------------------------------
+--> test05
+Test with a small binary file containing all 256 possible byte values
+(0 to 255) plus one repeated byte value (but no repeated sequences). This
+results in the need to store the last single-byte code and the EOD as
+10-bit values.
+
+valgrind
+-------------------------------------------------------------------------------
+--> test06
+Test with a small binary file containing all possible byte values and
+with repeated sequences.
+
+valgrind
+-------------------------------------------------------------------------------
+--> test07
+Test with an empty file.
+
+valgrind
+-------------------------------------------------------------------------------
+--> test08
+Usage test: A bad -r flag (non-numeric or missing value)
+-------------------------------------------------------------------------------
+--> test09
+Usage test: A bad -r flag (out of range) 
+-------------------------------------------------------------------------------
+--> test10
+Usage test: A bad -r flag (out of range) 
+-------------------------------------------------------------------------------
+--> test11
+Usage test: An invalid flag, (not -r)
+-------------------------------------------------------------------------------
+--> test12
+Usage test: Too many arguments
+-------------------------------------------------------------------------------
+--> test13
+Usage test: Too few arguments
+-------------------------------------------------------------------------------
+--> test14
+Test for error: Some input file issue 
+-------------------------------------------------------------------------------
+--> test15
+Test for error: Some output file issue 
+
+
+-------------------------------------------------------------------------------
+FEATURE TESTS
+-------------------------------------------------------------------------------
+--> test01
+Value: 14
+Test with a larger text file with repeated sequences. Does not result in
+recycling with the default recycle code.
+-------------------------------------------------------------------------------
+--> test02
+Value: 14
+Test with a larger binary file with repeated sequences. Does not result in
+recycling with the default recycle code.
+-------------------------------------------------------------------------------
+--> test03
+Value: 4
+Test for recycling with -r9 using a text or binary file.
+-------------------------------------------------------------------------------
+--> test04
+Value: 4
+Test for recycling with -r10 using a text or binary file.
+-------------------------------------------------------------------------------
+--> test05
+Value: 4
+Test for recycling with -r11 using a text or binary file.
+-------------------------------------------------------------------------------
+--> test06
+Value: 4
+Test for recycling using the default value (no explicit -rN flag) using
+a text or binary file.
+-------------------------------------------------------------------------------
+--> test07
+Value: 4
+Test for recycling with -r12 using a text or binary file.
+-------------------------------------------------------------------------------
+--> test08
+Value: 4
+Test for recycling with -r13 using a text or binary file.
+-------------------------------------------------------------------------------
+--> test09
+Value: 4
+Test for recycling with -r14 using a text or binary file.
+-------------------------------------------------------------------------------
+--> test10
+Value: 4
+Test for recycling with -r15 using a text or binary file.
+
+valgrind
+
+
+-------------------------------------------------------------------------------
+CPU TESTS
+-------------------------------------------------------------------------------
+--> test01
+Value: 33
+Test cpu performance with a small-ish input file (about 200,000 bytes).
+Target: 0.013 0.120
+-------------------------------------------------------------------------------
+--> test02
+Value: 33
+Test cpu performance with a large-ish input file (about 1,600,000 bytes).
+Target: 0.149 1.830
+-------------------------------------------------------------------------------
+--> test03
+Value: 34
+Test cpu performance with a degenerate case, i.e., millions of the same
+repeating symbol. For example:
+
+   aaaaaaaaaaaaaaaaaaaaaa...a
+Target: 0.342 0.752 
+
+
+-------------------------------------------------------------------------------
+HEAP TESTS
+-------------------------------------------------------------------------------
+--> test01
+Value: 33
+Test memory usage with a small-ish input file (about 200,000 bytes).
+Target: 4500000 98140000
+-------------------------------------------------------------------------------
+--> test02
+Value: 33
+Test memory usage with a large-ish input file (about 1,600,000 bytes).
+Target: 4500000 1400720000
+-------------------------------------------------------------------------------
+--> test03
+Value: 34
+Test memory usage with a degenerate case, i.e., millions of the
+same repeating symbol. For example:
+
+   aaaaaaaaaaaaaaaaaaaaaa...a
+Target: 4500000 32000000

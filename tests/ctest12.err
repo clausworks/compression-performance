@@ -1,0 +1,2 @@
+Usage: lzwCompress [-rN] file
+Where: N is a number from 9 to 15 specifying the recycle code as a power of 2

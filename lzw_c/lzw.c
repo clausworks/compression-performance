@@ -63,7 +63,7 @@ static void updateDictionary(Trie *dic, Byte b, int i) {
    /* set code of "next" node */
    dic->nodes[dic->nextIndex].code = dic->nextCode;
 
-   printf("Added code to dictionary: %u\n", dic->nextCode);
+   /*printf("Added code to dictionary: %u\n", dic->nextCode);*/
 
    dic->nextCode++;
    dic->nextIndex++;
@@ -114,7 +114,7 @@ static void writeByte(FILE *outFile, Byte b) {
 
 static void writeCode(FILE *outFile, unsigned short code, 
    CompressionState *cs) {
-   printf("Writing code %u (%u bits)\n", code, cs->packetSize);
+   /*printf("Writing code %u (%u bits)\n", code, cs->packetSize);*/
    addToBuffer(code, cs);
    /* write as many bytes as possible */
    while (cs->bitCount > BYTE_BITS)

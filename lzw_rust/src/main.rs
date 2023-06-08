@@ -164,7 +164,7 @@ impl CodeTrie {
             next: [0; CodeTrie::ALPHABET_SIZE]
         });
 
-        println!("Added code to dictionary: {}", self.next_code);
+        //println!("Added code to dictionary: {}", self.next_code);
 
         self.next_code += 1;
     }
@@ -340,7 +340,7 @@ impl Compressor {
 
     // TODO: clean up this mess (writeKnown, finishWrite, etc.)
     fn write_packed_code(&mut self, code: u16) -> Result<(), std::io::Error> {
-        println!("Writing code {0} ({1} bits)", code, self.out_buf.packet_size);
+        //println!("Writing code {0} ({1} bits)", code, self.out_buf.packet_size);
         //println!("  pre push:      {:032b}", self.out_buf.bit_buf);
         self.out_buf.push(code);
         //println!("  post push:     {:032b}", self.out_buf.bit_buf);

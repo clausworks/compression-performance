@@ -1,125 +1,1363 @@
-0000000: 00001100 00110111 10011100 00001110 00100111 00100011  .7..'#
-0000006: 10011001 11010000 11101010 01110110 00111011 10011110  ...v;.
-000000c: 00001111 00100111 10100011 11011001 11110000 11111010  .'....
-0000012: 01111110 00111111 10100000 00010000 00101000 00100100  ~?..($
-0000018: 00011010 00010001 00001010 10000110 01000011 10100010  ....C.
-000001e: 00010001 00101000 10100100 01011010 00110001 00011010  .(.Z1.
-0000024: 10001110 01000111 10100100 00010010 00101001 00100100  .G..)$
-000002a: 10011010 01010001 00101010 10010110 01001011 10001001  .Q*.K.
-0000030: 10000100 11100010 10000001 01001000 10101000 01010110  ...H.V
-0000036: 00101100 00010110 10001011 10000101 11100011 00000001  ,.....
-000003c: 10001000 11001000 01100110 00110100 00000001 00000000  ..f4..
-0000042: 11000000 10000000 01010000 00110000 00011100 00010000  ..P0..
-0000048: 00001001 00000101 00000010 11000001 10000000 11010000  ......
-000004e: 01110000 00111100 00100000 00010001 00001001 00000100  p< ...
-0000054: 11000010 10000001 01010000 10110000 01011100 00110000  ..P.\0
-000005a: 00011001 00001101 00000110 11000011 10000001 11010000  ......
-0000060: 11110000 01111100 01000000 00100001 00010001 00001000  .|@!..
-0000066: 11000100 10000010 01011001 01010100 10110010 01011101  ..YT.]
-000006c: 00110000 10011001 01001101 00100110 11000011 01000001  0.M&.A
-0000072: 10101000 11011000 01101110 00111000 00011100 10001110  ..n8..
-0000078: 10000111 01100011 11000001 11101000 11111000 01111110  .c...~
-000007e: 01000000 00100000 10010000 10001000 01100100 01000010  @ ..dB
-0000084: 00101001 00011000 10001110 01001000 00100100 10010010  )..H$.
-000008a: 10001001 01100100 11000010 01101001 00111000 10011110  .d.i8.
-0000090: 01010000 00101000 10010100 10001010 01100101 01000010  P(..eB
-0000096: 10101001 01011000 10101110 01011000 00101100 10010110  .X.X,.
-000009c: 10001011 01100101 11000010 11101001 01111000 10111110  .e..x.
-00000a2: 01100000 00110000 10011000 10001100 01100110 01000011  `0..fC
-00000a8: 00101001 10011000 11001110 01101000 00110100 10011010  )..h4.
-00000ae: 10001101 01100110 11000011 01101001 10111010 00000011  .f.i..
-00000b4: 00000011 10000010 11000001 11100001 00110000 10111000  ....0.
-00000ba: 01101100 00111110 00100011 00010011 10001010 11000101  l>#...
-00000c0: 11100011 00110001 10111000 11101100 01111110 01000011  .1..~C
-00000c6: 00100011 10010010 11001001 11010010 11101001 10000100  #.....
-00000cc: 11001010 01101001 00110110 10011100 01001110 10100111  .i6.N.
-00000d2: 10010011 11101010 00000101 00001010 10001001 01000110  .....F
-00000d8: 10100100 01010010 10101001 10010100 11101010 10000101  .R....
-00000de: 01001010 10101001 01010110 10101100 01010110 10101011  J.V.V.
-00000e4: 10010101 11101011 00000101 10001010 11001001 01100110  .....f
-00000ea: 10110100 01011010 10101101 10010110 11101011 10000101  .Z....
-00000f0: 11001010 11101001 01110110 10111100 01011110 10101111  ..v.^.
-00000f6: 10010111 11101100 00000110 00001011 00001001 10000110  ......
-00000fc: 11000100 01100010 10110001 10011000 11101100 10001101  .b....
-0000102: 01001100 01100010 00110101 00011100 10001111 01001000  Lb5..H
-0000108: 00100100 01010010 01001001 00110100 10100011 01101001  $RI4.i
-000010e: 10110110 11011100 01101110 10110111 10011011 11101110  ..n...
-0000114: 00000111 00001011 10001001 11000110 11100100 01110010  .....r
-000011a: 10111001 10011100 11101110 10000111 01001011 10101001  ....K.
-0000120: 11010110 01110110 00011101 10100111 01110001 11011110  .v..q.
-0000126: 01111000 00011110 00100011 00100000 11001001 00110010  x.# .2
-000012c: 10001100 10110011 00110000 11001101 00110011 10001100  ..0.3.
-0000132: 11110011 01000000 11010001 00110100 10001101 00110011  .@.4.3
-0000138: 01010000 11010101 00110101 10011010 11010111 10101001  P.5...
-000013e: 10110000 01111011 01011011 00110110 11010101 10110111  .{[6..
-0000144: 01101110 01011011 10110110 11110101 10111111 01110000  n[...p
-000014a: 01011100 00110111 00010101 11000111 01110010 01011100  \7..r\
-0000150: 10110111 00110101 11001111 01110100 01011101 00110111  .5.t]7
-0000156: 01010101 11010111 01110110 01011101 10110111 01110101  U.v].u
-000015c: 01010111 01010110 01010101 10110101 01110101 00101101  WVU.u-
-0000162: 01001011 11010011 00010100 11001101 00110101 01001101  K...5M
-0000168: 11010110 01010101 10011101 01101001 01011010 11010110  .U.iZ.
-000016e: 11010101 10111101 01110001 01011100 11010111 01010101  ..q\.U
-0000174: 11011101 01111001 01011110 11010111 11010101 11111101  .y^...
-000017a: 10000001 01100000 11011000 01010110 00011101 10001001  .`.V..
-0000180: 01100010 11011000 11010110 00111101 10010001 01100100  b..=.d
-0000186: 11011001 01010110 01011101 10011001 01100110 11011001  .V].f.
-000018c: 11010110 01111101 00000100 01000001 10010000 10000100  .}.A..
-0000192: 00101001 00001100 01000011 10010001 00000100 01001001  ).C..I
-0000198: 00010100 01000101 10011110 01100110 10110000 10001100  .E.f..
-000019e: 01011110 00010111 10100101 11110001 01111110 01100000  ^...~`
-00001a4: 00011000 00100110 00010001 10000110 01100010 00011000  .&..b.
-00001aa: 10100110 00110001 10001110 01100100 00011001 00100110  .1.d.&
-00001b0: 01010001 10010110 01100110 00011001 10100110 01110001  Q.f..q
-00001b6: 10011110 01000000 10100101 10000110 10001010 01011011  .@...[
-00001bc: 01101001 01100101 11100110 10100010 01100001 01101010  ie..aj
-00001c2: 11011110 10000101 00101101 01001101 01010011 11010101  ..-MS.
-00001c8: 00010101 01001101 01010101 10001100 00010101 10100101  .MU...
-00001ce: 01110001 00101011 10001101 00010110 00001000 11011101  q+....
-00001d4: 01100011 10001110 10001111 10000011 11100100 11111010  c.....
-00001da: 01010001 10010100 10000101 00101001 01001100 01010011  Q..)LS
-00001e0: 10010101 00000101 01001001 01010100 01010101 10010101  ..ITU.
-00001e6: 10001010 00101010 00110011 01010111 11100011 01100101  .*3W.e
-00001ec: 10001010 00111001 01011001 10010110 10000101 10101001  .9Y...
-00001f2: 01101100 01011011 10010111 00000101 11001001 01110100  l[...t
-00001f8: 01011101 10100110 01011001 00010110 01101000 10010010  ].Y.h.
-00001fe: 00100110 10111001 00101110 01101110 10010011 10100111  &..n..
-0000204: 00011001 01000110 01110100 10010101 00100111 01111001  .Ft.'y
-000020a: 01011101 10100001 10010110 10011010 01001001 01110101  ]...Iu
-0000210: 10100111 10011000 00011010 10100111 10011110 00010110  ......
-0000216: 01101011 11011110 11000110 11001001 11101111 10000111  k.....
-000021c: 00011111 00101000 01111110 01010110 10011110 01101011  .(~V.k
-0000222: 11000110 10001110 01011100 01101001 10100101 11110111  ..\i..
-0000228: 10010110 10000001 10110001 00011110 10110110 11000101  ......
-000022e: 11101110 10000110 11011111 00011000 01111001 11110100  ....y.
-0000234: 10001000 01011111 01111000 10010001 11111010 10001001  ._x...
-000023a: 11011111 11011000 10101010 00000000 01110110 01001110  ....vN
-0000240: 10010011 10101000 11101011 00111011 00001110 11010011  ...;..
-0000246: 10111000 11101111 00111100 00001111 00010011 11001000  ..<...
-000024c: 11110011 00111101 00001111 01010011 11011000 11110111  .=.S..
-0000252: 10110100 11101100 00110111 10100110 11000101 10110101  ..7...
-0000258: 11100001 10100111 11000010 00011101 01111100 11100010  ....|.
-000025e: 00000111 11011010 00100011 01111110 01100010 01100111  ..#~bg
-0000264: 11110010 00101001 01111111 11100010 11001000 00001001  .)....
-000026a: 11011101 01110111 11011110 00010111 10001110 00001000  .w....
-0000270: 10000010 10100000 11001000 00111010 00010000 10000100  ...:..
-0000276: 10100001 01000011 01011100 11011000 00110110 01001101  .C\.6M
-000027c: 10100011 01101100 11011100 00110111 01001101 11100011  .l.7M.
-0000282: 01111110 11001100 01101000 00100101 10011011 00111110  ~.h%.>
-0000288: 01111101 10110000 00101111 01011001 10001101 10101110  }./Y..
-000028e: 10110101 10100001 10011011 00100010 11011010 10111111  ..."..
-0000294: 01011111 01011000 10001001 11111000 10001001 01011111  _X..._
-000029a: 10111000 10100001 11111110 10001010 11100000 00011000  ......
-00002a0: 10111010 00000100 11000010 10100000 01111000 00100110  ....x&
-00002a6: 00001011 10000011 01100000 11111000 01000110 00010011  ..`.F.
-00002ac: 00110101 10110001 00111100 01010111 00010111 11000110  5.<W..
-00002b2: 01001101 11110011 10000000 11100001 00111000 10001110  M...8.
-00002b8: 00110011 10010000 11100101 00111001 10001110 01110011  3..9.s
-00002be: 10100010 11100110 10111010 00101110 10101011 10110010  ......
-00002c4: 11101110 10111100 00100100 11111001 11001010 01010010  ..$..R
-00002ca: 10011101 01100101 01011001 11100011 00011101 10011110  .eY...
-00002d0: 11101011 11101011 01000110 01111111 10110000 10110010  ..F...
-00002d6: 00111000 01011110 11000110 10110110 00101111 10111011  8^../.
-00002dc: 00101010 11011100 10111111 11110010 11001011 10000011  *.....
-00002e2: 00000011 11001100 00101110 01001000 00001001 00000000  ...H..
+Writing code 111 (9 bits)
+Added code to dictionary: 257
+Writing code 112 (9 bits)
+Added code to dictionary: 258
+Writing code 113 (9 bits)
+Added code to dictionary: 259
+Writing code 114 (9 bits)
+Added code to dictionary: 260
+Writing code 115 (9 bits)
+Added code to dictionary: 261
+Writing code 116 (9 bits)
+Added code to dictionary: 262
+Writing code 117 (9 bits)
+Added code to dictionary: 263
+Writing code 118 (9 bits)
+Added code to dictionary: 264
+Writing code 119 (9 bits)
+Added code to dictionary: 265
+Writing code 120 (9 bits)
+Added code to dictionary: 266
+Writing code 121 (9 bits)
+Added code to dictionary: 267
+Writing code 122 (9 bits)
+Added code to dictionary: 268
+Writing code 123 (9 bits)
+Added code to dictionary: 269
+Writing code 124 (9 bits)
+Added code to dictionary: 270
+Writing code 125 (9 bits)
+Added code to dictionary: 271
+Writing code 126 (9 bits)
+Added code to dictionary: 272
+Writing code 127 (9 bits)
+Added code to dictionary: 273
+Writing code 128 (9 bits)
+Added code to dictionary: 274
+Writing code 129 (9 bits)
+Added code to dictionary: 275
+Writing code 130 (9 bits)
+Added code to dictionary: 276
+Writing code 131 (9 bits)
+Added code to dictionary: 277
+Writing code 132 (9 bits)
+Added code to dictionary: 278
+Writing code 133 (9 bits)
+Added code to dictionary: 279
+Writing code 134 (9 bits)
+Added code to dictionary: 280
+Writing code 135 (9 bits)
+Added code to dictionary: 281
+Writing code 136 (9 bits)
+Added code to dictionary: 282
+Writing code 137 (9 bits)
+Added code to dictionary: 283
+Writing code 138 (9 bits)
+Added code to dictionary: 284
+Writing code 139 (9 bits)
+Added code to dictionary: 285
+Writing code 140 (9 bits)
+Added code to dictionary: 286
+Writing code 141 (9 bits)
+Added code to dictionary: 287
+Writing code 142 (9 bits)
+Added code to dictionary: 288
+Writing code 143 (9 bits)
+Added code to dictionary: 289
+Writing code 144 (9 bits)
+Added code to dictionary: 290
+Writing code 145 (9 bits)
+Added code to dictionary: 291
+Writing code 146 (9 bits)
+Added code to dictionary: 292
+Writing code 147 (9 bits)
+Added code to dictionary: 293
+Writing code 148 (9 bits)
+Added code to dictionary: 294
+Writing code 149 (9 bits)
+Added code to dictionary: 295
+Writing code 150 (9 bits)
+Added code to dictionary: 296
+Writing code 151 (9 bits)
+Added code to dictionary: 297
+Writing code 38 (9 bits)
+Added code to dictionary: 298
+Writing code 39 (9 bits)
+Added code to dictionary: 299
+Writing code 40 (9 bits)
+Added code to dictionary: 300
+Writing code 41 (9 bits)
+Added code to dictionary: 301
+Writing code 42 (9 bits)
+Added code to dictionary: 302
+Writing code 43 (9 bits)
+Added code to dictionary: 303
+Writing code 44 (9 bits)
+Added code to dictionary: 304
+Writing code 45 (9 bits)
+Added code to dictionary: 305
+Writing code 46 (9 bits)
+Added code to dictionary: 306
+Writing code 47 (9 bits)
+Added code to dictionary: 307
+Writing code 48 (9 bits)
+Added code to dictionary: 308
+Writing code 49 (9 bits)
+Added code to dictionary: 309
+Writing code 50 (9 bits)
+Added code to dictionary: 310
+Writing code 51 (9 bits)
+Added code to dictionary: 311
+Writing code 52 (9 bits)
+Added code to dictionary: 312
+Writing code 2 (9 bits)
+Added code to dictionary: 313
+Writing code 3 (9 bits)
+Added code to dictionary: 314
+Writing code 4 (9 bits)
+Added code to dictionary: 315
+Writing code 5 (9 bits)
+Added code to dictionary: 316
+Writing code 6 (9 bits)
+Added code to dictionary: 317
+Writing code 7 (9 bits)
+Added code to dictionary: 318
+Writing code 8 (9 bits)
+Added code to dictionary: 319
+Writing code 9 (9 bits)
+Added code to dictionary: 320
+Writing code 10 (9 bits)
+Added code to dictionary: 321
+Writing code 11 (9 bits)
+Added code to dictionary: 322
+Writing code 12 (9 bits)
+Added code to dictionary: 323
+Writing code 13 (9 bits)
+Added code to dictionary: 324
+Writing code 14 (9 bits)
+Added code to dictionary: 325
+Writing code 15 (9 bits)
+Added code to dictionary: 326
+Writing code 16 (9 bits)
+Added code to dictionary: 327
+Writing code 17 (9 bits)
+Added code to dictionary: 328
+Writing code 18 (9 bits)
+Added code to dictionary: 329
+Writing code 19 (9 bits)
+Added code to dictionary: 330
+Writing code 20 (9 bits)
+Added code to dictionary: 331
+Writing code 21 (9 bits)
+Added code to dictionary: 332
+Writing code 22 (9 bits)
+Added code to dictionary: 333
+Writing code 23 (9 bits)
+Added code to dictionary: 334
+Writing code 24 (9 bits)
+Added code to dictionary: 335
+Writing code 25 (9 bits)
+Added code to dictionary: 336
+Writing code 26 (9 bits)
+Added code to dictionary: 337
+Writing code 27 (9 bits)
+Added code to dictionary: 338
+Writing code 28 (9 bits)
+Added code to dictionary: 339
+Writing code 29 (9 bits)
+Added code to dictionary: 340
+Writing code 30 (9 bits)
+Added code to dictionary: 341
+Writing code 31 (9 bits)
+Added code to dictionary: 342
+Writing code 32 (9 bits)
+Added code to dictionary: 343
+Writing code 33 (9 bits)
+Added code to dictionary: 344
+Writing code 34 (9 bits)
+Added code to dictionary: 345
+Writing code 35 (9 bits)
+Added code to dictionary: 346
+Writing code 36 (9 bits)
+Added code to dictionary: 347
+Writing code 37 (9 bits)
+Added code to dictionary: 348
+Writing code 298 (9 bits)
+Added code to dictionary: 349
+Writing code 300 (9 bits)
+Added code to dictionary: 350
+Writing code 302 (9 bits)
+Added code to dictionary: 351
+Writing code 304 (9 bits)
+Added code to dictionary: 352
+Writing code 306 (9 bits)
+Added code to dictionary: 353
+Writing code 308 (9 bits)
+Added code to dictionary: 354
+Writing code 310 (9 bits)
+Added code to dictionary: 355
+Writing code 52 (9 bits)
+Added code to dictionary: 356
+Writing code 53 (9 bits)
+Added code to dictionary: 357
+Writing code 54 (9 bits)
+Added code to dictionary: 358
+Writing code 55 (9 bits)
+Added code to dictionary: 359
+Writing code 56 (9 bits)
+Added code to dictionary: 360
+Writing code 57 (9 bits)
+Added code to dictionary: 361
+Writing code 58 (9 bits)
+Added code to dictionary: 362
+Writing code 59 (9 bits)
+Added code to dictionary: 363
+Writing code 60 (9 bits)
+Added code to dictionary: 364
+Writing code 61 (9 bits)
+Added code to dictionary: 365
+Writing code 62 (9 bits)
+Added code to dictionary: 366
+Writing code 63 (9 bits)
+Added code to dictionary: 367
+Writing code 64 (9 bits)
+Added code to dictionary: 368
+Writing code 65 (9 bits)
+Added code to dictionary: 369
+Writing code 66 (9 bits)
+Added code to dictionary: 370
+Writing code 67 (9 bits)
+Added code to dictionary: 371
+Writing code 68 (9 bits)
+Added code to dictionary: 372
+Writing code 69 (9 bits)
+Added code to dictionary: 373
+Writing code 70 (9 bits)
+Added code to dictionary: 374
+Writing code 71 (9 bits)
+Added code to dictionary: 375
+Writing code 72 (9 bits)
+Added code to dictionary: 376
+Writing code 73 (9 bits)
+Added code to dictionary: 377
+Writing code 74 (9 bits)
+Added code to dictionary: 378
+Writing code 75 (9 bits)
+Added code to dictionary: 379
+Writing code 76 (9 bits)
+Added code to dictionary: 380
+Writing code 77 (9 bits)
+Added code to dictionary: 381
+Writing code 78 (9 bits)
+Added code to dictionary: 382
+Writing code 79 (9 bits)
+Added code to dictionary: 383
+Writing code 80 (9 bits)
+Added code to dictionary: 384
+Writing code 81 (9 bits)
+Added code to dictionary: 385
+Writing code 82 (9 bits)
+Added code to dictionary: 386
+Writing code 83 (9 bits)
+Added code to dictionary: 387
+Writing code 84 (9 bits)
+Added code to dictionary: 388
+Writing code 85 (9 bits)
+Added code to dictionary: 389
+Writing code 86 (9 bits)
+Added code to dictionary: 390
+Writing code 87 (9 bits)
+Added code to dictionary: 391
+Writing code 88 (9 bits)
+Added code to dictionary: 392
+Writing code 89 (9 bits)
+Added code to dictionary: 393
+Writing code 90 (9 bits)
+Added code to dictionary: 394
+Writing code 91 (9 bits)
+Added code to dictionary: 395
+Writing code 92 (9 bits)
+Added code to dictionary: 396
+Writing code 93 (9 bits)
+Added code to dictionary: 397
+Writing code 94 (9 bits)
+Added code to dictionary: 398
+Writing code 95 (9 bits)
+Added code to dictionary: 399
+Writing code 96 (9 bits)
+Added code to dictionary: 400
+Writing code 97 (9 bits)
+Added code to dictionary: 401
+Writing code 98 (9 bits)
+Added code to dictionary: 402
+Writing code 99 (9 bits)
+Added code to dictionary: 403
+Writing code 100 (9 bits)
+Added code to dictionary: 404
+Writing code 101 (9 bits)
+Added code to dictionary: 405
+Writing code 102 (9 bits)
+Added code to dictionary: 406
+Writing code 103 (9 bits)
+Added code to dictionary: 407
+Writing code 104 (9 bits)
+Added code to dictionary: 408
+Writing code 105 (9 bits)
+Added code to dictionary: 409
+Writing code 106 (9 bits)
+Added code to dictionary: 410
+Writing code 107 (9 bits)
+Added code to dictionary: 411
+Writing code 108 (9 bits)
+Added code to dictionary: 412
+Writing code 109 (9 bits)
+Added code to dictionary: 413
+Writing code 110 (9 bits)
+Added code to dictionary: 414
+Writing code 257 (9 bits)
+Added code to dictionary: 415
+Writing code 259 (9 bits)
+Added code to dictionary: 416
+Writing code 261 (9 bits)
+Added code to dictionary: 417
+Writing code 263 (9 bits)
+Added code to dictionary: 418
+Writing code 265 (9 bits)
+Added code to dictionary: 419
+Writing code 267 (9 bits)
+Added code to dictionary: 420
+Writing code 269 (9 bits)
+Added code to dictionary: 421
+Writing code 271 (9 bits)
+Added code to dictionary: 422
+Writing code 273 (9 bits)
+Added code to dictionary: 423
+Writing code 275 (9 bits)
+Added code to dictionary: 424
+Writing code 277 (9 bits)
+Added code to dictionary: 425
+Writing code 279 (9 bits)
+Added code to dictionary: 426
+Writing code 281 (9 bits)
+Added code to dictionary: 427
+Writing code 283 (9 bits)
+Added code to dictionary: 428
+Writing code 285 (9 bits)
+Added code to dictionary: 429
+Writing code 287 (9 bits)
+Added code to dictionary: 430
+Writing code 289 (9 bits)
+Added code to dictionary: 431
+Writing code 291 (9 bits)
+Added code to dictionary: 432
+Writing code 293 (9 bits)
+Added code to dictionary: 433
+Writing code 295 (9 bits)
+Added code to dictionary: 434
+Writing code 151 (9 bits)
+Added code to dictionary: 435
+Writing code 152 (9 bits)
+Added code to dictionary: 436
+Writing code 153 (9 bits)
+Added code to dictionary: 437
+Writing code 154 (9 bits)
+Added code to dictionary: 438
+Writing code 155 (9 bits)
+Added code to dictionary: 439
+Writing code 156 (9 bits)
+Added code to dictionary: 440
+Writing code 157 (9 bits)
+Added code to dictionary: 441
+Writing code 158 (9 bits)
+Added code to dictionary: 442
+Writing code 159 (9 bits)
+Added code to dictionary: 443
+Writing code 160 (9 bits)
+Added code to dictionary: 444
+Writing code 161 (9 bits)
+Added code to dictionary: 445
+Writing code 162 (9 bits)
+Added code to dictionary: 446
+Writing code 163 (9 bits)
+Added code to dictionary: 447
+Writing code 164 (9 bits)
+Added code to dictionary: 448
+Writing code 165 (9 bits)
+Added code to dictionary: 449
+Writing code 166 (9 bits)
+Added code to dictionary: 450
+Writing code 167 (9 bits)
+Added code to dictionary: 451
+Writing code 168 (9 bits)
+Added code to dictionary: 452
+Writing code 169 (9 bits)
+Added code to dictionary: 453
+Writing code 170 (9 bits)
+Added code to dictionary: 454
+Writing code 171 (9 bits)
+Added code to dictionary: 455
+Writing code 172 (9 bits)
+Added code to dictionary: 456
+Writing code 173 (9 bits)
+Added code to dictionary: 457
+Writing code 174 (9 bits)
+Added code to dictionary: 458
+Writing code 175 (9 bits)
+Added code to dictionary: 459
+Writing code 176 (9 bits)
+Added code to dictionary: 460
+Writing code 177 (9 bits)
+Added code to dictionary: 461
+Writing code 178 (9 bits)
+Added code to dictionary: 462
+Writing code 179 (9 bits)
+Added code to dictionary: 463
+Writing code 180 (9 bits)
+Added code to dictionary: 464
+Writing code 181 (9 bits)
+Added code to dictionary: 465
+Writing code 182 (9 bits)
+Added code to dictionary: 466
+Writing code 183 (9 bits)
+Added code to dictionary: 467
+Writing code 184 (9 bits)
+Added code to dictionary: 468
+Writing code 185 (9 bits)
+Added code to dictionary: 469
+Writing code 186 (9 bits)
+Added code to dictionary: 470
+Writing code 187 (9 bits)
+Added code to dictionary: 471
+Writing code 188 (9 bits)
+Added code to dictionary: 472
+Writing code 189 (9 bits)
+Added code to dictionary: 473
+Writing code 190 (9 bits)
+Added code to dictionary: 474
+Writing code 191 (9 bits)
+Added code to dictionary: 475
+Writing code 192 (9 bits)
+Added code to dictionary: 476
+Writing code 193 (9 bits)
+Added code to dictionary: 477
+Writing code 194 (9 bits)
+Added code to dictionary: 478
+Writing code 195 (9 bits)
+Added code to dictionary: 479
+Writing code 196 (9 bits)
+Added code to dictionary: 480
+Writing code 197 (9 bits)
+Added code to dictionary: 481
+Writing code 198 (9 bits)
+Added code to dictionary: 482
+Writing code 199 (9 bits)
+Added code to dictionary: 483
+Writing code 200 (9 bits)
+Added code to dictionary: 484
+Writing code 425 (9 bits)
+Added code to dictionary: 485
+Writing code 280 (9 bits)
+Added code to dictionary: 486
+Writing code 282 (9 bits)
+Added code to dictionary: 487
+Writing code 284 (9 bits)
+Added code to dictionary: 488
+Writing code 286 (9 bits)
+Added code to dictionary: 489
+Writing code 288 (9 bits)
+Added code to dictionary: 490
+Writing code 290 (9 bits)
+Added code to dictionary: 491
+Writing code 292 (9 bits)
+Added code to dictionary: 492
+Writing code 294 (9 bits)
+Added code to dictionary: 493
+Writing code 296 (9 bits)
+Added code to dictionary: 494
+Writing code 436 (9 bits)
+Added code to dictionary: 495
+Writing code 438 (9 bits)
+Added code to dictionary: 496
+Writing code 440 (9 bits)
+Added code to dictionary: 497
+Writing code 442 (9 bits)
+Added code to dictionary: 498
+Writing code 444 (9 bits)
+Added code to dictionary: 499
+Writing code 446 (9 bits)
+Added code to dictionary: 500
+Writing code 448 (9 bits)
+Added code to dictionary: 501
+Writing code 450 (9 bits)
+Added code to dictionary: 502
+Writing code 452 (9 bits)
+Added code to dictionary: 503
+Writing code 454 (9 bits)
+Added code to dictionary: 504
+Writing code 456 (9 bits)
+Added code to dictionary: 505
+Writing code 458 (9 bits)
+Added code to dictionary: 506
+Writing code 460 (9 bits)
+Added code to dictionary: 507
+Writing code 462 (9 bits)
+Added code to dictionary: 508
+Writing code 464 (9 bits)
+Added code to dictionary: 509
+Writing code 466 (9 bits)
+Added code to dictionary: 510
+Writing code 468 (9 bits)
+Added code to dictionary: 511
+Writing code 470 (9 bits)
+Added code to dictionary: 512
+Writing code 472 (10 bits)
+Added code to dictionary: 513
+Writing code 474 (10 bits)
+Added code to dictionary: 514
+Writing code 476 (10 bits)
+Added code to dictionary: 515
+Writing code 478 (10 bits)
+Added code to dictionary: 516
+Writing code 480 (10 bits)
+Added code to dictionary: 517
+Writing code 482 (10 bits)
+Added code to dictionary: 518
+Writing code 200 (10 bits)
+Added code to dictionary: 519
+Writing code 201 (10 bits)
+Added code to dictionary: 520
+Writing code 202 (10 bits)
+Added code to dictionary: 521
+Writing code 203 (10 bits)
+Added code to dictionary: 522
+Writing code 204 (10 bits)
+Added code to dictionary: 523
+Writing code 205 (10 bits)
+Added code to dictionary: 524
+Writing code 206 (10 bits)
+Added code to dictionary: 525
+Writing code 207 (10 bits)
+Added code to dictionary: 526
+Writing code 208 (10 bits)
+Added code to dictionary: 527
+Writing code 209 (10 bits)
+Added code to dictionary: 528
+Writing code 210 (10 bits)
+Added code to dictionary: 529
+Writing code 211 (10 bits)
+Added code to dictionary: 530
+Writing code 212 (10 bits)
+Added code to dictionary: 531
+Writing code 213 (10 bits)
+Added code to dictionary: 532
+Writing code 214 (10 bits)
+Added code to dictionary: 533
+Writing code 429 (10 bits)
+Added code to dictionary: 534
+Writing code 490 (10 bits)
+Added code to dictionary: 535
+Writing code 432 (10 bits)
+Added code to dictionary: 536
+Writing code 493 (10 bits)
+Added code to dictionary: 537
+Writing code 435 (10 bits)
+Added code to dictionary: 538
+Writing code 437 (10 bits)
+Added code to dictionary: 539
+Writing code 439 (10 bits)
+Added code to dictionary: 540
+Writing code 441 (10 bits)
+Added code to dictionary: 541
+Writing code 443 (10 bits)
+Added code to dictionary: 542
+Writing code 445 (10 bits)
+Added code to dictionary: 543
+Writing code 447 (10 bits)
+Added code to dictionary: 544
+Writing code 449 (10 bits)
+Added code to dictionary: 545
+Writing code 451 (10 bits)
+Added code to dictionary: 546
+Writing code 453 (10 bits)
+Added code to dictionary: 547
+Writing code 455 (10 bits)
+Added code to dictionary: 548
+Writing code 457 (10 bits)
+Added code to dictionary: 549
+Writing code 459 (10 bits)
+Added code to dictionary: 550
+Writing code 461 (10 bits)
+Added code to dictionary: 551
+Writing code 463 (10 bits)
+Added code to dictionary: 552
+Writing code 465 (10 bits)
+Added code to dictionary: 553
+Writing code 467 (10 bits)
+Added code to dictionary: 554
+Writing code 469 (10 bits)
+Added code to dictionary: 555
+Writing code 471 (10 bits)
+Added code to dictionary: 556
+Writing code 473 (10 bits)
+Added code to dictionary: 557
+Writing code 475 (10 bits)
+Added code to dictionary: 558
+Writing code 477 (10 bits)
+Added code to dictionary: 559
+Writing code 343 (10 bits)
+Added code to dictionary: 560
+Writing code 345 (10 bits)
+Added code to dictionary: 561
+Writing code 347 (10 bits)
+Added code to dictionary: 562
+Writing code 349 (10 bits)
+Added code to dictionary: 563
+Writing code 301 (10 bits)
+Added code to dictionary: 564
+Writing code 303 (10 bits)
+Added code to dictionary: 565
+Writing code 305 (10 bits)
+Added code to dictionary: 566
+Writing code 307 (10 bits)
+Added code to dictionary: 567
+Writing code 309 (10 bits)
+Added code to dictionary: 568
+Writing code 311 (10 bits)
+Added code to dictionary: 569
+Writing code 357 (10 bits)
+Added code to dictionary: 570
+Writing code 359 (10 bits)
+Added code to dictionary: 571
+Writing code 361 (10 bits)
+Added code to dictionary: 572
+Writing code 363 (10 bits)
+Added code to dictionary: 573
+Writing code 365 (10 bits)
+Added code to dictionary: 574
+Writing code 367 (10 bits)
+Added code to dictionary: 575
+Writing code 369 (10 bits)
+Added code to dictionary: 576
+Writing code 371 (10 bits)
+Added code to dictionary: 577
+Writing code 373 (10 bits)
+Added code to dictionary: 578
+Writing code 375 (10 bits)
+Added code to dictionary: 579
+Writing code 377 (10 bits)
+Added code to dictionary: 580
+Writing code 379 (10 bits)
+Added code to dictionary: 581
+Writing code 381 (10 bits)
+Added code to dictionary: 582
+Writing code 383 (10 bits)
+Added code to dictionary: 583
+Writing code 385 (10 bits)
+Added code to dictionary: 584
+Writing code 387 (10 bits)
+Added code to dictionary: 585
+Writing code 389 (10 bits)
+Added code to dictionary: 586
+Writing code 391 (10 bits)
+Added code to dictionary: 587
+Writing code 393 (10 bits)
+Added code to dictionary: 588
+Writing code 395 (10 bits)
+Added code to dictionary: 589
+Writing code 397 (10 bits)
+Added code to dictionary: 590
+Writing code 399 (10 bits)
+Added code to dictionary: 591
+Writing code 401 (10 bits)
+Added code to dictionary: 592
+Writing code 403 (10 bits)
+Added code to dictionary: 593
+Writing code 405 (10 bits)
+Added code to dictionary: 594
+Writing code 407 (10 bits)
+Added code to dictionary: 595
+Writing code 409 (10 bits)
+Added code to dictionary: 596
+Writing code 411 (10 bits)
+Added code to dictionary: 597
+Writing code 413 (10 bits)
+Added code to dictionary: 598
+Writing code 415 (10 bits)
+Added code to dictionary: 599
+Writing code 260 (10 bits)
+Added code to dictionary: 600
+Writing code 262 (10 bits)
+Added code to dictionary: 601
+Writing code 264 (10 bits)
+Added code to dictionary: 602
+Writing code 266 (10 bits)
+Added code to dictionary: 603
+Writing code 268 (10 bits)
+Added code to dictionary: 604
+Writing code 270 (10 bits)
+Added code to dictionary: 605
+Writing code 272 (10 bits)
+Added code to dictionary: 606
+Writing code 274 (10 bits)
+Added code to dictionary: 607
+Writing code 276 (10 bits)
+Added code to dictionary: 608
+Writing code 278 (10 bits)
+Added code to dictionary: 609
+Writing code 486 (10 bits)
+Added code to dictionary: 610
+Writing code 428 (10 bits)
+Added code to dictionary: 611
+Writing code 140 (10 bits)
+Added code to dictionary: 612
+Writing code 376 (10 bits)
+Added code to dictionary: 613
+Writing code 378 (10 bits)
+Added code to dictionary: 614
+Writing code 380 (10 bits)
+Added code to dictionary: 615
+Writing code 382 (10 bits)
+Added code to dictionary: 616
+Writing code 384 (10 bits)
+Added code to dictionary: 617
+Writing code 386 (10 bits)
+Added code to dictionary: 618
+Writing code 388 (10 bits)
+Added code to dictionary: 619
+Writing code 390 (10 bits)
+Added code to dictionary: 620
+Writing code 392 (10 bits)
+Added code to dictionary: 621
+Writing code 394 (10 bits)
+Added code to dictionary: 622
+Writing code 396 (10 bits)
+Added code to dictionary: 623
+Writing code 398 (10 bits)
+Added code to dictionary: 624
+Writing code 400 (10 bits)
+Added code to dictionary: 625
+Writing code 402 (10 bits)
+Added code to dictionary: 626
+Writing code 404 (10 bits)
+Added code to dictionary: 627
+Writing code 406 (10 bits)
+Added code to dictionary: 628
+Writing code 408 (10 bits)
+Added code to dictionary: 629
+Writing code 410 (10 bits)
+Added code to dictionary: 630
+Writing code 412 (10 bits)
+Added code to dictionary: 631
+Writing code 414 (10 bits)
+Added code to dictionary: 632
+Writing code 258 (10 bits)
+Added code to dictionary: 633
+Writing code 600 (10 bits)
+Added code to dictionary: 634
+Writing code 418 (10 bits)
+Added code to dictionary: 635
+Writing code 603 (10 bits)
+Added code to dictionary: 636
+Writing code 421 (10 bits)
+Added code to dictionary: 637
+Writing code 606 (10 bits)
+Added code to dictionary: 638
+Writing code 424 (10 bits)
+Added code to dictionary: 639
+Writing code 609 (10 bits)
+Added code to dictionary: 640
+Writing code 427 (10 bits)
+Added code to dictionary: 641
+Writing code 488 (10 bits)
+Added code to dictionary: 642
+Writing code 331 (10 bits)
+Added code to dictionary: 643
+Writing code 333 (10 bits)
+Added code to dictionary: 644
+Writing code 335 (10 bits)
+Added code to dictionary: 645
+Writing code 337 (10 bits)
+Added code to dictionary: 646
+Writing code 339 (10 bits)
+Added code to dictionary: 647
+Writing code 341 (10 bits)
+Added code to dictionary: 648
+Writing code 560 (10 bits)
+Added code to dictionary: 649
+Writing code 346 (10 bits)
+Added code to dictionary: 650
+Writing code 348 (10 bits)
+Added code to dictionary: 651
+Writing code 299 (10 bits)
+Added code to dictionary: 652
+Writing code 564 (10 bits)
+Added code to dictionary: 653
+Writing code 352 (10 bits)
+Added code to dictionary: 654
+Writing code 567 (10 bits)
+Added code to dictionary: 655
+Writing code 355 (10 bits)
+Added code to dictionary: 656
+Writing code 570 (10 bits)
+Added code to dictionary: 657
+Writing code 248 (10 bits)
+Added code to dictionary: 658
+Writing code 249 (10 bits)
+Added code to dictionary: 659
+Writing code 250 (10 bits)
+Added code to dictionary: 660
+Writing code 326 (10 bits)
+Added code to dictionary: 661
+Writing code 328 (10 bits)
+Added code to dictionary: 662
+Writing code 330 (10 bits)
+Added code to dictionary: 663
+Writing code 332 (10 bits)
+Added code to dictionary: 664
+Writing code 334 (10 bits)
+Added code to dictionary: 665
+Writing code 336 (10 bits)
+Added code to dictionary: 666
+Writing code 338 (10 bits)
+Added code to dictionary: 667
+Writing code 340 (10 bits)
+Added code to dictionary: 668
+Writing code 342 (10 bits)
+Added code to dictionary: 669
+Writing code 344 (10 bits)
+Added code to dictionary: 670
+Writing code 650 (10 bits)
+Added code to dictionary: 671
+Writing code 563 (10 bits)
+Added code to dictionary: 672
+Writing code 351 (10 bits)
+Added code to dictionary: 673
+Writing code 566 (10 bits)
+Added code to dictionary: 674
+Writing code 354 (10 bits)
+Added code to dictionary: 675
+Writing code 569 (10 bits)
+Added code to dictionary: 676
+Writing code 358 (10 bits)
+Added code to dictionary: 677
+Writing code 360 (10 bits)
+Added code to dictionary: 678
+Writing code 362 (10 bits)
+Added code to dictionary: 679
+Writing code 364 (10 bits)
+Added code to dictionary: 680
+Writing code 366 (10 bits)
+Added code to dictionary: 681
+Writing code 368 (10 bits)
+Added code to dictionary: 682
+Writing code 370 (10 bits)
+Added code to dictionary: 683
+Writing code 372 (10 bits)
+Added code to dictionary: 684
+Writing code 374 (10 bits)
+Added code to dictionary: 685
+Writing code 613 (10 bits)
+Added code to dictionary: 686
+Writing code 581 (10 bits)
+Added code to dictionary: 687
+Writing code 616 (10 bits)
+Added code to dictionary: 688
+Writing code 584 (10 bits)
+Added code to dictionary: 689
+Writing code 619 (10 bits)
+Added code to dictionary: 690
+Writing code 587 (10 bits)
+Added code to dictionary: 691
+Writing code 622 (10 bits)
+Added code to dictionary: 692
+Writing code 590 (10 bits)
+Added code to dictionary: 693
+Writing code 625 (10 bits)
+Added code to dictionary: 694
+Writing code 593 (10 bits)
+Added code to dictionary: 695
+Writing code 628 (10 bits)
+Added code to dictionary: 696
+Writing code 596 (10 bits)
+Added code to dictionary: 697
+Writing code 631 (10 bits)
+Added code to dictionary: 698
+Writing code 599 (10 bits)
+Added code to dictionary: 699
+Writing code 417 (10 bits)
+Added code to dictionary: 700
+Writing code 602 (10 bits)
+Added code to dictionary: 701
+Writing code 420 (10 bits)
+Added code to dictionary: 702
+Writing code 605 (10 bits)
+Added code to dictionary: 703
+Writing code 423 (10 bits)
+Added code to dictionary: 704
+Writing code 608 (10 bits)
+Added code to dictionary: 705
+Writing code 426 (10 bits)
+Added code to dictionary: 706
+Writing code 487 (10 bits)
+Added code to dictionary: 707
+Writing code 534 (10 bits)
+Added code to dictionary: 708
+Writing code 431 (10 bits)
+Added code to dictionary: 709
+Writing code 492 (10 bits)
+Added code to dictionary: 710
+Writing code 434 (10 bits)
+Added code to dictionary: 711
+Writing code 495 (10 bits)
+Added code to dictionary: 712
+Writing code 540 (10 bits)
+Added code to dictionary: 713
+Writing code 498 (10 bits)
+Added code to dictionary: 714
+Writing code 543 (10 bits)
+Added code to dictionary: 715
+Writing code 598 (10 bits)
+Added code to dictionary: 716
+Writing code 633 (10 bits)
+Added code to dictionary: 717
+Writing code 700 (10 bits)
+Added code to dictionary: 718
+Writing code 419 (10 bits)
+Added code to dictionary: 719
+Writing code 604 (10 bits)
+Added code to dictionary: 720
+Writing code 422 (10 bits)
+Added code to dictionary: 721
+Writing code 607 (10 bits)
+Added code to dictionary: 722
+Writing code 485 (10 bits)
+Added code to dictionary: 723
+Writing code 641 (10 bits)
+Added code to dictionary: 724
+Writing code 708 (10 bits)
+Added code to dictionary: 725
+Writing code 491 (10 bits)
+Added code to dictionary: 726
+Writing code 433 (10 bits)
+Added code to dictionary: 727
+Writing code 494 (10 bits)
+Added code to dictionary: 728
+Writing code 539 (10 bits)
+Added code to dictionary: 729
+Writing code 497 (10 bits)
+Added code to dictionary: 730
+Writing code 542 (10 bits)
+Added code to dictionary: 731
+Writing code 500 (10 bits)
+Added code to dictionary: 732
+Writing code 545 (10 bits)
+Added code to dictionary: 733
+Writing code 503 (10 bits)
+Added code to dictionary: 734
+Writing code 548 (10 bits)
+Added code to dictionary: 735
+Writing code 506 (10 bits)
+Added code to dictionary: 736
+Writing code 551 (10 bits)
+Added code to dictionary: 737
+Writing code 509 (10 bits)
+Added code to dictionary: 738
+Writing code 554 (10 bits)
+Added code to dictionary: 739
+Writing code 512 (10 bits)
+Added code to dictionary: 740
+Writing code 473 (10 bits)
+Added code to dictionary: 741
+Writing code 233 (10 bits)
+Added code to dictionary: 742
+Writing code 234 (10 bits)
+Added code to dictionary: 743
+Writing code 235 (10 bits)
+Added code to dictionary: 744
+Writing code 236 (10 bits)
+Added code to dictionary: 745
+Writing code 237 (10 bits)
+Added code to dictionary: 746
+Writing code 238 (10 bits)
+Added code to dictionary: 747
+Writing code 239 (10 bits)
+Added code to dictionary: 748
+Writing code 240 (10 bits)
+Added code to dictionary: 749
+Writing code 241 (10 bits)
+Added code to dictionary: 750
+Writing code 242 (10 bits)
+Added code to dictionary: 751
+Writing code 243 (10 bits)
+Added code to dictionary: 752
+Writing code 244 (10 bits)
+Added code to dictionary: 753
+Writing code 245 (10 bits)
+Added code to dictionary: 754
+Writing code 246 (10 bits)
+Added code to dictionary: 755
+Writing code 247 (10 bits)
+Added code to dictionary: 756
+Writing code 723 (10 bits)
+Added code to dictionary: 757
+Writing code 707 (10 bits)
+Added code to dictionary: 758
+Writing code 489 (10 bits)
+Added code to dictionary: 759
+Writing code 709 (10 bits)
+Added code to dictionary: 760
+Writing code 727 (10 bits)
+Added code to dictionary: 761
+Writing code 538 (10 bits)
+Added code to dictionary: 762
+Writing code 496 (10 bits)
+Added code to dictionary: 763
+Writing code 541 (10 bits)
+Added code to dictionary: 764
+Writing code 499 (10 bits)
+Added code to dictionary: 765
+Writing code 544 (10 bits)
+Added code to dictionary: 766
+Writing code 502 (10 bits)
+Added code to dictionary: 767
+Writing code 547 (10 bits)
+Added code to dictionary: 768
+Writing code 505 (10 bits)
+Added code to dictionary: 769
+Writing code 550 (10 bits)
+Added code to dictionary: 770
+Writing code 508 (10 bits)
+Added code to dictionary: 771
+Writing code 553 (10 bits)
+Added code to dictionary: 772
+Writing code 511 (10 bits)
+Added code to dictionary: 773
+Writing code 556 (10 bits)
+Added code to dictionary: 774
+Writing code 514 (10 bits)
+Added code to dictionary: 775
+Writing code 477 (10 bits)
+Added code to dictionary: 776
+Writing code 479 (10 bits)
+Added code to dictionary: 777
+Writing code 481 (10 bits)
+Added code to dictionary: 778
+Writing code 483 (10 bits)
+Added code to dictionary: 779
+Writing code 520 (10 bits)
+Added code to dictionary: 780
+Writing code 522 (10 bits)
+Added code to dictionary: 781
+Writing code 524 (10 bits)
+Added code to dictionary: 782
+Writing code 526 (10 bits)
+Added code to dictionary: 783
+Writing code 528 (10 bits)
+Added code to dictionary: 784
+Writing code 530 (10 bits)
+Added code to dictionary: 785
+Writing code 532 (10 bits)
+Added code to dictionary: 786
+Writing code 215 (10 bits)
+Added code to dictionary: 787
+Writing code 216 (10 bits)
+Added code to dictionary: 788
+Writing code 217 (10 bits)
+Added code to dictionary: 789
+Writing code 218 (10 bits)
+Added code to dictionary: 790
+Writing code 219 (10 bits)
+Added code to dictionary: 791
+Writing code 220 (10 bits)
+Added code to dictionary: 792
+Writing code 221 (10 bits)
+Added code to dictionary: 793
+Writing code 222 (10 bits)
+Added code to dictionary: 794
+Writing code 223 (10 bits)
+Added code to dictionary: 795
+Writing code 716 (10 bits)
+Added code to dictionary: 796
+Writing code 416 (10 bits)
+Added code to dictionary: 797
+Writing code 601 (10 bits)
+Added code to dictionary: 798
+Writing code 719 (10 bits)
+Added code to dictionary: 799
+Writing code 637 (10 bits)
+Added code to dictionary: 800
+Writing code 704 (10 bits)
+Added code to dictionary: 801
+Writing code 757 (10 bits)
+Added code to dictionary: 802
+Writing code 611 (10 bits)
+Added code to dictionary: 803
+Writing code 430 (10 bits)
+Added code to dictionary: 804
+Writing code 726 (10 bits)
+Added code to dictionary: 805
+Writing code 537 (10 bits)
+Added code to dictionary: 806
+Writing code 712 (10 bits)
+Added code to dictionary: 807
+Writing code 730 (10 bits)
+Added code to dictionary: 808
+Writing code 765 (10 bits)
+Added code to dictionary: 809
+Writing code 501 (10 bits)
+Added code to dictionary: 810
+Writing code 546 (10 bits)
+Added code to dictionary: 811
+Writing code 504 (10 bits)
+Added code to dictionary: 812
+Writing code 549 (10 bits)
+Added code to dictionary: 813
+Writing code 507 (10 bits)
+Added code to dictionary: 814
+Writing code 552 (10 bits)
+Added code to dictionary: 815
+Writing code 510 (10 bits)
+Added code to dictionary: 816
+Writing code 555 (10 bits)
+Added code to dictionary: 817
+Writing code 513 (10 bits)
+Added code to dictionary: 818
+Writing code 558 (10 bits)
+Added code to dictionary: 819
+Writing code 516 (10 bits)
+Added code to dictionary: 820
+Writing code 778 (10 bits)
+Added code to dictionary: 821
+Writing code 519 (10 bits)
+Added code to dictionary: 822
+Writing code 521 (10 bits)
+Added code to dictionary: 823
+Writing code 523 (10 bits)
+Added code to dictionary: 824
+Writing code 525 (10 bits)
+Added code to dictionary: 825
+Writing code 527 (10 bits)
+Added code to dictionary: 826
+Writing code 529 (10 bits)
+Added code to dictionary: 827
+Writing code 531 (10 bits)
+Added code to dictionary: 828
+Writing code 214 (10 bits)
+Added code to dictionary: 829
+Writing code 787 (10 bits)
+Added code to dictionary: 830
+Writing code 789 (10 bits)
+Added code to dictionary: 831
+Writing code 791 (10 bits)
+Added code to dictionary: 832
+Writing code 793 (10 bits)
+Added code to dictionary: 833
+Writing code 223 (10 bits)
+Added code to dictionary: 834
+Writing code 224 (10 bits)
+Added code to dictionary: 835
+Writing code 225 (10 bits)
+Added code to dictionary: 836
+Writing code 226 (10 bits)
+Added code to dictionary: 837
+Writing code 227 (10 bits)
+Added code to dictionary: 838
+Writing code 228 (10 bits)
+Added code to dictionary: 839
+Writing code 229 (10 bits)
+Added code to dictionary: 840
+Writing code 230 (10 bits)
+Added code to dictionary: 841
+Writing code 231 (10 bits)
+Added code to dictionary: 842
+Writing code 232 (10 bits)
+Added code to dictionary: 843
+Writing code 742 (10 bits)
+Added code to dictionary: 844
+Writing code 744 (10 bits)
+Added code to dictionary: 845
+Writing code 746 (10 bits)
+Added code to dictionary: 846
+Writing code 748 (10 bits)
+Added code to dictionary: 847
+Writing code 750 (10 bits)
+Added code to dictionary: 848
+Writing code 752 (10 bits)
+Added code to dictionary: 849
+Writing code 591 (10 bits)
+Added code to dictionary: 850
+Writing code 626 (10 bits)
+Added code to dictionary: 851
+Writing code 594 (10 bits)
+Added code to dictionary: 852
+Writing code 629 (10 bits)
+Added code to dictionary: 853
+Writing code 597 (10 bits)
+Added code to dictionary: 854
+Writing code 632 (10 bits)
+Added code to dictionary: 855
+Writing code 797 (10 bits)
+Added code to dictionary: 856
+Writing code 635 (10 bits)
+Added code to dictionary: 857
+Writing code 702 (10 bits)
+Added code to dictionary: 858
+Writing code 721 (10 bits)
+Added code to dictionary: 859
+Writing code 639 (10 bits)
+Added code to dictionary: 860
+Writing code 706 (10 bits)
+Added code to dictionary: 861
+Writing code 803 (10 bits)
+Added code to dictionary: 862
+Writing code 535 (10 bits)
+Added code to dictionary: 863
+Writing code 710 (10 bits)
+Added code to dictionary: 864
+Writing code 728 (10 bits)
+Added code to dictionary: 865
+Writing code 763 (10 bits)
+Added code to dictionary: 866
+Writing code 714 (10 bits)
+Added code to dictionary: 867
+Writing code 732 (10 bits)
+Added code to dictionary: 868
+Writing code 767 (10 bits)
+Added code to dictionary: 869
+Writing code 812 (10 bits)
+Added code to dictionary: 870
+Writing code 736 (10 bits)
+Added code to dictionary: 871
+Writing code 771 (10 bits)
+Added code to dictionary: 872
+Writing code 816 (10 bits)
+Added code to dictionary: 873
+Writing code 740 (10 bits)
+Added code to dictionary: 874
+Writing code 514 (10 bits)
+Writing code 256 (10 bits)
+00000000: 00001100 00110111 10011100 00001110 00100111 00100011  .7..'#
+00000006: 10011001 11010000 11101010 01110110 00111011 10011110  ...v;.
+0000000c: 00001111 00100111 10100011 11011001 11110000 11111010  .'....
+00000012: 01111110 00111111 10100000 00010000 00101000 00100100  ~?..($
+00000018: 00011010 00010001 00001010 10000110 01000011 10100010  ....C.
+0000001e: 00010001 00101000 10100100 01011010 00110001 00011010  .(.Z1.
+00000024: 10001110 01000111 10100100 00010010 00101001 00100100  .G..)$
+0000002a: 10011010 01010001 00101010 10010110 01001011 10001001  .Q*.K.
+00000030: 10000100 11100010 10000001 01001000 10101000 01010110  ...H.V
+00000036: 00101100 00010110 10001011 10000101 11100011 00000001  ,.....
+0000003c: 10001000 11001000 01100110 00110100 00000001 00000000  ..f4..
+00000042: 11000000 10000000 01010000 00110000 00011100 00010000  ..P0..
+00000048: 00001001 00000101 00000010 11000001 10000000 11010000  ......
+0000004e: 01110000 00111100 00100000 00010001 00001001 00000100  p< ...
+00000054: 11000010 10000001 01010000 10110000 01011100 00110000  ..P.\0
+0000005a: 00011001 00001101 00000110 11000011 10000001 11010000  ......
+00000060: 11110000 01111100 01000000 00100001 00010001 00001000  .|@!..
+00000066: 11000100 10000010 01011001 01010100 10110010 01011101  ..YT.]
+0000006c: 00110000 10011001 01001101 00100110 11000011 01000001  0.M&.A
+00000072: 10101000 11011000 01101110 00111000 00011100 10001110  ..n8..
+00000078: 10000111 01100011 11000001 11101000 11111000 01111110  .c...~
+0000007e: 01000000 00100000 10010000 10001000 01100100 01000010  @ ..dB
+00000084: 00101001 00011000 10001110 01001000 00100100 10010010  )..H$.
+0000008a: 10001001 01100100 11000010 01101001 00111000 10011110  .d.i8.
+00000090: 01010000 00101000 10010100 10001010 01100101 01000010  P(..eB
+00000096: 10101001 01011000 10101110 01011000 00101100 10010110  .X.X,.
+0000009c: 10001011 01100101 11000010 11101001 01111000 10111110  .e..x.
+000000a2: 01100000 00110000 10011000 10001100 01100110 01000011  `0..fC
+000000a8: 00101001 10011000 11001110 01101000 00110100 10011010  )..h4.
+000000ae: 10001101 01100110 11000011 01101001 10111010 00000011  .f.i..
+000000b4: 00000011 10000010 11000001 11100001 00110000 10111000  ....0.
+000000ba: 01101100 00111110 00100011 00010011 10001010 11000101  l>#...
+000000c0: 11100011 00110001 10111000 11101100 01111110 01000011  .1..~C
+000000c6: 00100011 10010010 11001001 11010010 11101001 10000100  #.....
+000000cc: 11001010 01101001 00110110 10011100 01001110 10100111  .i6.N.
+000000d2: 10010011 11101010 00000101 00001010 10001001 01000110  .....F
+000000d8: 10100100 01010010 10101001 10010100 11101010 10000101  .R....
+000000de: 01001010 10101001 01010110 10101100 01010110 10101011  J.V.V.
+000000e4: 10010101 11101011 00000101 10001010 11001001 01100110  .....f
+000000ea: 10110100 01011010 10101101 10010110 11101011 10000101  .Z....
+000000f0: 11001010 11101001 01110110 10111100 01011110 10101111  ..v.^.
+000000f6: 10010111 11101100 00000110 00001011 00001001 10000110  ......
+000000fc: 11000100 01100010 10110001 10011000 11101100 10001101  .b....
+00000102: 01001100 01100010 00110101 00011100 10001111 01001000  Lb5..H
+00000108: 00100100 01010010 01001001 00110100 10100011 01101001  $RI4.i
+0000010e: 10110110 11011100 01101110 10110111 10011011 11101110  ..n...
+00000114: 00000111 00001011 10001001 11000110 11100100 01110010  .....r
+0000011a: 10111001 10011100 11101110 10000111 01001011 10101001  ....K.
+00000120: 11010110 01110110 00011101 10100111 01110001 11011110  .v..q.
+00000126: 01111000 00011110 00100011 00100000 11001001 00110010  x.# .2
+0000012c: 10001100 10110011 00110000 11001101 00110011 10001100  ..0.3.
+00000132: 11110011 01000000 11010001 00110100 10001101 00110011  .@.4.3
+00000138: 01010000 11010101 00110101 10011010 11010111 10101001  P.5...
+0000013e: 10110000 01111011 01011011 00110110 11010101 10110111  .{[6..
+00000144: 01101110 01011011 10110110 11110101 10111111 01110000  n[...p
+0000014a: 01011100 00110111 00010101 11000111 01110010 01011100  \7..r\
+00000150: 10110111 00110101 11001111 01110100 01011101 00110111  .5.t]7
+00000156: 01010101 11010111 01110110 01011101 10110111 01110101  U.v].u
+0000015c: 01010111 01010110 01010101 10110101 01110101 00101101  WVU.u-
+00000162: 01001011 11010011 00010100 11001101 00110101 01001101  K...5M
+00000168: 11010110 01010101 10011101 01101001 01011010 11010110  .U.iZ.
+0000016e: 11010101 10111101 01110001 01011100 11010111 01010101  ..q\.U
+00000174: 11011101 01111001 01011110 11010111 11010101 11111101  .y^...
+0000017a: 10000001 01100000 11011000 01010110 00011101 10001001  .`.V..
+00000180: 01100010 11011000 11010110 00111101 10010001 01100100  b..=.d
+00000186: 11011001 01010110 01011101 10011001 01100110 11011001  .V].f.
+0000018c: 11010110 01111101 00000100 01000001 10010000 10000100  .}.A..
+00000192: 00101001 00001100 01000011 10010001 00000100 01001001  ).C..I
+00000198: 00010100 01000101 10011110 01100110 10110000 10001100  .E.f..
+0000019e: 01011110 00010111 10100101 11110001 01111110 01100000  ^...~`
+000001a4: 00011000 00100110 00010001 10000110 01100010 00011000  .&..b.
+000001aa: 10100110 00110001 10001110 01100100 00011001 00100110  .1.d.&
+000001b0: 01010001 10010110 01100110 00011001 10100110 01110001  Q.f..q
+000001b6: 10011110 01000000 10100101 10000110 10001010 01011011  .@...[
+000001bc: 01101001 01100101 11100110 10100010 01100001 01101010  ie..aj
+000001c2: 11011110 10000101 00101101 01001101 01010011 11010101  ..-MS.
+000001c8: 00010101 01001101 01010101 10001100 00010101 10100101  .MU...
+000001ce: 01110001 00101011 10001101 00010110 00001000 11011101  q+....
+000001d4: 01100011 10001110 10001111 10000011 11100100 11111010  c.....
+000001da: 01010001 10010100 10000101 00101001 01001100 01010011  Q..)LS
+000001e0: 10010101 00000101 01001001 01010100 01010101 10010101  ..ITU.
+000001e6: 10001010 00101010 00110011 01010111 11100011 01100101  .*3W.e
+000001ec: 10001010 00111001 01011001 10010110 10000101 10101001  .9Y...
+000001f2: 01101100 01011011 10010111 00000101 11001001 01110100  l[...t
+000001f8: 01011101 10100110 01011001 00010110 01101000 10010010  ].Y.h.
+000001fe: 00100110 10111001 00101110 01101110 10010011 10100111  &..n..
+00000204: 00011001 01000110 01110100 10010101 00100111 01111001  .Ft.'y
+0000020a: 01011101 10100001 10010110 10011010 01001001 01110101  ]...Iu
+00000210: 10100111 10011000 00011010 10100111 10011110 00010110  ......
+00000216: 01101011 11011110 11000110 11001001 11101111 10000111  k.....
+0000021c: 00011111 00101000 01111110 01010110 10011110 01101011  .(~V.k
+00000222: 11000110 10001110 01011100 01101001 10100101 11110111  ..\i..
+00000228: 10010110 10000001 10110001 00011110 10110110 11000101  ......
+0000022e: 11101110 10000110 11011111 00011000 01111001 11110100  ....y.
+00000234: 10001000 01011111 01111000 10010001 11111010 10001001  ._x...
+0000023a: 11011111 11011000 10101010 00000000 01110110 01001110  ....vN
+00000240: 10010011 10101000 11101011 00111011 00001110 11010011  ...;..
+00000246: 10111000 11101111 00111100 00001111 00010011 11001000  ..<...
+0000024c: 11110011 00111101 00001111 01010011 11011000 11110111  .=.S..
+00000252: 10110100 11101100 00110111 10100110 11000101 10110101  ..7...
+00000258: 11100001 10100111 11000010 00011101 01111100 11100010  ....|.
+0000025e: 00000111 11011010 00100011 01111110 01100010 01100111  ..#~bg
+00000264: 11110010 00101001 01111111 11100010 11001000 00001001  .)....
+0000026a: 11011101 01110111 11011110 00010111 10001110 00001000  .w....
+00000270: 10000010 10100000 11001000 00111010 00010000 10000100  ...:..
+00000276: 10100001 01000011 01011100 11011000 00110110 01001101  .C\.6M
+0000027c: 10100011 01101100 11011100 00110111 01001101 11100011  .l.7M.
+00000282: 01111110 11001100 01101000 00100101 10011011 00111110  ~.h%.>
+00000288: 01111101 10110000 00101111 01011001 10001101 10101110  }./Y..
+0000028e: 10110101 10100001 10011011 00100010 11011010 10111111  ..."..
+00000294: 01011111 01011000 10001001 11111000 10001001 01011111  _X..._
+0000029a: 10111000 10100001 11111110 10001010 11100000 00011000  ......
+000002a0: 10111010 00000100 11000010 10100000 01111000 00100110  ....x&
+000002a6: 00001011 10000011 01100000 11111000 01000110 00010011  ..`.F.
+000002ac: 00110101 10110001 00111100 01010111 00010111 11000110  5.<W..
+000002b2: 01001101 11110011 10000000 11100001 00111000 10001110  M...8.
+000002b8: 00110011 10010000 11100101 00111001 10001110 01110011  3..9.s
+000002be: 10100010 11100110 10111010 00101110 10101011 10110010  ......
+000002c4: 11101110 10111100 00100100 11111001 11001010 01010010  ..$..R
+000002ca: 10011101 01100101 01011001 11100011 00011101 10011110  .eY...
+000002d0: 11101011 11101011 01000110 01111111 10110000 10110010  ..F...
+000002d6: 00111000 01011110 11000110 10110110 00101111 10111011  8^../.
+000002dc: 00101010 11011100 10111111 11110010 11001011 10000011  *.....
+000002e2: 00000011 11001100 00101110 01001000 00001001 00000000  ...H..
 Exited with code 0

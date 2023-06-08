@@ -1,7 +1,61 @@
-0000000: 00001100 00100000 10010000 10001000 01100100 01000010  . ..dB
-0000006: 00101001 00011000 10001110 01001000 00100100 10010010  )..H$.
-000000c: 10001001 01100100 11000010 01101001 00111000 10011110  .d.i8.
-0000012: 01010000 00101000 10010100 10001010 01100101 01000010  P(..eB
-0000018: 10101001 01011000 10101110 01011000 00101100 10010110  .X.X,.
-000001e: 10000001 01010000 00000000                             .P.
+Writing code 65 (9 bits)
+Added code to dictionary: 257
+Writing code 66 (9 bits)
+Added code to dictionary: 258
+Writing code 67 (9 bits)
+Added code to dictionary: 259
+Writing code 68 (9 bits)
+Added code to dictionary: 260
+Writing code 69 (9 bits)
+Added code to dictionary: 261
+Writing code 70 (9 bits)
+Added code to dictionary: 262
+Writing code 71 (9 bits)
+Added code to dictionary: 263
+Writing code 72 (9 bits)
+Added code to dictionary: 264
+Writing code 73 (9 bits)
+Added code to dictionary: 265
+Writing code 74 (9 bits)
+Added code to dictionary: 266
+Writing code 75 (9 bits)
+Added code to dictionary: 267
+Writing code 76 (9 bits)
+Added code to dictionary: 268
+Writing code 77 (9 bits)
+Added code to dictionary: 269
+Writing code 78 (9 bits)
+Added code to dictionary: 270
+Writing code 79 (9 bits)
+Added code to dictionary: 271
+Writing code 80 (9 bits)
+Added code to dictionary: 272
+Writing code 81 (9 bits)
+Added code to dictionary: 273
+Writing code 82 (9 bits)
+Added code to dictionary: 274
+Writing code 83 (9 bits)
+Added code to dictionary: 275
+Writing code 84 (9 bits)
+Added code to dictionary: 276
+Writing code 85 (9 bits)
+Added code to dictionary: 277
+Writing code 86 (9 bits)
+Added code to dictionary: 278
+Writing code 87 (9 bits)
+Added code to dictionary: 279
+Writing code 88 (9 bits)
+Added code to dictionary: 280
+Writing code 89 (9 bits)
+Added code to dictionary: 281
+Writing code 90 (9 bits)
+Added code to dictionary: 282
+Writing code 10 (9 bits)
+Writing code 256 (9 bits)
+00000000: 00001100 00100000 10010000 10001000 01100100 01000010  . ..dB
+00000006: 00101001 00011000 10001110 01001000 00100100 10010010  )..H$.
+0000000c: 10001001 01100100 11000010 01101001 00111000 10011110  .d.i8.
+00000012: 01010000 00101000 10010100 10001010 01100101 01000010  P(..eB
+00000018: 10101001 01011000 10101110 01011000 00101100 10010110  .X.X,.
+0000001e: 10000001 01010000 00000000                             .P.
 Exited with code 0

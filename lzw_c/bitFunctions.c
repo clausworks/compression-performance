@@ -1,4 +1,3 @@
-#include "lzw.h"
 #include "bitFunctions.h"
 
 void addToBuffer(unsigned short code, CompressionState *cs) {

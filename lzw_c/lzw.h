@@ -52,4 +52,6 @@ typedef struct {
 }
 */
 
+void printUsageAndExit(void);
+
 #endif

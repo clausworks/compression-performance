@@ -1,4 +1,4 @@
-TARGET   = a.out
+TARGET   = lzwCompress
 CC       = gcc
 CCFLAGS  = -std=c89 -pedantic -Wall -Werror -g
 LDFLAGS  = -lm

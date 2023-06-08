@@ -5,7 +5,7 @@
 #include "io.h"
 #include "bitFunctions.h"
 
-void printUsageAndExit() {
+void printUsageAndExit(void) {
    fprintf(stderr, "Usage: %s [-rN] file\n", PROGRAM_NAME);
    fprintf(stderr, "Where: N is a number from 9 to 15 specifying "
       "the recycle code as a power of 2\n");

@@ -2,8 +2,7 @@ use std::env;
 use exitcode;
 use regex::Regex;
 use std::fs::File;
-use std::io::Read;
-use std::io::Write;
+use std::io::{Read, Write, BufReader, BufWriter};
 
 /*
 mod trie;
@@ -77,14 +76,16 @@ struct ProgramArgs {
     fname: String,
 }
 
-fn open_io_files(fname_in: &str, fname_out: &str) -> Result<(File, File), std::io::Error>  {
+/// Open I/O files as buffered reader/writer
+fn open_io_files(fname_in: &str, fname_out: &str)
+        -> Result<(BufReader<File>, BufWriter<File>), std::io::Error>  {
     //println!("{fname_in}, {fname_out}");
-    let f_in = File::open(fname_in)?;
-    let f_out = File::create(fname_out)?;
+    let f_in = BufReader::new(File::open(fname_in)?);
+    let f_out = BufWriter::new(File::create(fname_out)?);
     Ok((f_in, f_out))
 }
 
-fn init() -> Option<(u32, File, File)> {
+fn init() -> Option<(u32, BufReader<File>, BufWriter<File>)> {
     // Ensure arguments are valid
     match parse_args() {
         Ok(args) => {
@@ -109,7 +110,7 @@ fn copy_files(f_in: &mut File, f_out: &mut File) -> Result<(), std::io::Error> {
 }
 */
 
-fn write_byte(f_out: &mut File, b: u8) -> Result<(), std::io::Error> {
+fn write_byte(f_out: &mut BufWriter<File>, b: u8) -> Result<(), std::io::Error> {
     //println!("WRITE BYTE >> {0:08b}:{0:02x}:{0}", b);
     f_out.write_all(&[b])?;
     Ok(())
@@ -280,13 +281,13 @@ enum CompressionResult {
 struct Compressor {
     dict: CodeTrie,
     out_buf: PackedBuf,
-    f_out: File,
-    f_in: File,
+    f_out: BufWriter<File>,
+    f_in: BufReader<File>,
     rc: u32,
 }
 
 impl Compressor {
-    fn new(rc: u32, f_in: File, f_out: File) -> Compressor {
+    fn new(rc: u32, f_in: BufReader<File>, f_out: BufWriter<File>) -> Compressor {
         Compressor {
             dict: CodeTrie::new(),
             out_buf: PackedBuf::new(),

@@ -3,3 +3,7 @@
 *.lzw
 .DS_Store
 *.o
+lzw_rust/target
+__pycache__
+.idea
+lzw_rust/Cargo.lock

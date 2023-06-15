@@ -25,8 +25,12 @@ def write_sess(file_path, language):
 
 files = list(glob_files(join('tests', 'files')))
 for file in files:
+    filename = basename(file)
+    if filename not in ['alice29.txt', 'asyoulik.txt', 'badfile', 'cp.html', 'ctest01', 'ctest02', 'ctest02a', 'ctest03', 'ctest04', 'fields.c', 'grammar.lsp', 'heic0611b.tif', 'kennedy.xls', 'lcet10.txt', 'plrabn12.txt', 'ptt5', 'sum', 'xargs.1']:
+        continue
     for language in languages:
         write_sess(file, language)
-        data = check_output('httperf --port=5000 --wsesslog=50,0.25,sess.txt'.split(' '))
-        with open(join('httperf', f'{language},{basename(file)}.txt'), 'wb') as f:
-            f.write(data)
+        for rate in range(3100, 4100, 100):
+            data = check_output(f'httperf --port=5000 --rate {rate} --wsesslog={rate},0.25,sess.txt'.split(' '))
+            with open(join('httperf', f'{language},{basename(file)},{rate}.txt'), 'wb') as f:
+                f.write(data)

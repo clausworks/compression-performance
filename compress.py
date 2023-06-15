@@ -15,14 +15,15 @@ def cpp_compress(filename):
     run(['lzw_cpp/lzw', '-c', filename, filename + '.lzw'])
     return read_file(filename + '.lzw')
 
+
 def rust_compress(filename):
     run(['lzw_rust/target/debug/lzw_rust', filename])
     return read_file(filename + '.lzw')
 
 
 def python_compress(filename):
-    infile = lzw.readbytes(filename)
-    return lzw.compress(infile)
+    run(['python', 'lzw_python/lzw.py', filename])
+    return read_file(filename + '.lzw')
 
 
 if __name__ == "__main__":

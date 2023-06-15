@@ -1,0 +1,29 @@
+httperf --client=0/1 --server=localhost --port=5000 --uri=/ --rate=3800 --send-buffer=4096 --recv-buffer=16384 --ssl-protocol=auto --wsesslog=3800,0.250,sess.txt
+Maximum connect burst length: 3
+
+Total: connections 7600 requests 11400 replies 7600 test-duration 19.387 s
+
+Connection rate: 392.0 conn/s (2.6 ms/conn, <=3540 concurrent connections)
+Connection time [ms]: min 0.9 avg 1425.0 max 18896.5 median 328.5 stddev 2151.3
+Connection time [ms]: connect 562.3
+Connection length [replies/conn]: 1.000
+
+Request rate: 588.0 req/s (1.7 ms/req)
+Request size [B]: 142.0
+
+Reply rate [replies/s]: min 43.8 avg 505.0 max 1290.4 stddev 683.6 (3 samples)
+Reply time [ms]: response 737.5 transfer 0.2
+Reply size [B]: header 173.0 content 222.0 footer 0.0 (total 395.0)
+Reply status: 1xx=0 2xx=7600 3xx=0 4xx=0 5xx=0
+
+CPU time [s]: user 10.57 system 8.82 (user 54.5% system 45.5% total 100.0%)
+Net I/O: 233.5 KB/s (1.9*10^6 bps)
+
+Errors: total 3800 client-timo 0 socket-timo 0 connrefused 0 connreset 3800
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0
+
+Session rate [sess/s]: min 26.00 avg 196.00 max 614.00 stddev 316.50 (3800/3800)
+Session: avg 2.00 connections/session
+Session lifetime [s]: 2.9
+Session failtime [s]: 0.0
+Session length histogram: 0 0 3800

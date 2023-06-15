@@ -37,7 +37,7 @@ for ix, file in enumerate(files):
 files = []
 for file_ix, filename in enumerate(data.keys()):
     files.append(filename)
-    points = np.zeros((4, 30, 4))
+    points = np.zeros((4, 40, 4))
     for rate_ix, rate in enumerate(sorted(data[filename].keys())):
         for language_ix, language in enumerate(data[filename][rate].keys()):
             for file_ix, file in enumerate(data[filename][rate][language].keys()):

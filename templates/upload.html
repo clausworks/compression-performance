@@ -1,9 +1,11 @@
-<html>
-   <body>
-      <form action = "http://localhost:5000/file" method = "POST" 
-         enctype = "multipart/form-data">
-         <input type = "file" name = "file" />
-         <input type = "submit"/>
-      </form>   
-   </body>
+<html lang="en">
+<body>
+<form action="http://localhost:5000/file" method="POST" enctype="multipart/form-data">
+    <input type="file" name="file"/>
+    <input type="submit" name="C" value="Compress with C"/>
+    <input type="submit" name="C++" value="Compress with C++"/>
+    <input type="submit" name="Rust" value="Compress with Rust"/>
+    <input type="submit" name="Python" value="Compress with Python"/>
+</form>
+</body>
 </html>

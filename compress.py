@@ -1,6 +1,7 @@
 from platform import system
-from subprocess import run
+from subprocess import check_output, run
 from utils import read_file
+import lzw
 
 # TODO: Get System Info and run the correct executable
 
@@ -8,6 +9,20 @@ from utils import read_file
 def c_compress(filename):
     run(['lzw_c/linux-x64.out', filename])
     return read_file(filename + '.lzw')
+
+
+def cpp_compress(filename):
+    run(['lzw_cpp/lzw', '-c', filename, filename + '.lzw'])
+    return read_file(filename + '.lzw')
+
+def rust_compress(filename):
+    run(['lzw_rust/target/debug/lzw_rust', filename])
+    return read_file(filename + '.lzw')
+
+
+def python_compress(filename):
+    infile = lzw.readbytes(filename)
+    return lzw.compress(infile)
 
 
 if __name__ == "__main__":
